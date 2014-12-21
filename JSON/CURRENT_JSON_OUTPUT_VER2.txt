@@ -1,0 +1,177 @@
+{
+  "Survey": [
+    {
+      "AngGrp": [
+        {
+          "Entry": [
+            {
+              "speciesCaught": 0,
+              "released": true,
+              "total": 1,
+              "length": 20,
+              "weight": 5,
+              "mark": 1,
+              "origin": 0,
+              "finClip": 0,
+              "tagType": "tagType",
+              "tagNumber": "tagNum",
+              "notes": "Note"
+            },
+            {
+              "speciesCaught": 0,
+              "released": true,
+              "total": 1,
+              "length": 20,
+              "weight": 5,
+              "mark": 1,
+              "origin": 0,
+              "finClip": 0,
+              "tagType": "tagType",
+              "tagNumber": "tagNum",
+              "notes": "Note"
+            }
+          ],
+          "anglers": [],
+          "AngGrpIndCnt": 4,
+          "AngGrpTotCnt": 2,
+          "startTime": "17:01:25.5757753",
+          "endTime": "17:01:25.5767751",
+          "completeTrip": true,
+          "targetSpecies1": 4,
+          "targetSpecies2": 5
+        },
+        {
+          "Entry": [
+            {
+              "speciesCaught": 0,
+              "released": true,
+              "total": 1,
+              "length": 20,
+              "weight": 5,
+              "mark": 1,
+              "origin": 0,
+              "finClip": 0,
+              "tagType": "tagType",
+              "tagNumber": "tagNum",
+              "notes": "Note"
+            },
+            {
+              "speciesCaught": 0,
+              "released": true,
+              "total": 1,
+              "length": 20,
+              "weight": 5,
+              "mark": 1,
+              "origin": 0,
+              "finClip": 0,
+              "tagType": "tagType",
+              "tagNumber": "tagNum",
+              "notes": "Note"
+            }
+          ],
+          "anglers": [],
+          "AngGrpIndCnt": 4,
+          "AngGrpTotCnt": 2,
+          "startTime": "17:01:25.5757753",
+          "endTime": "17:01:25.5767751",
+          "completeTrip": true,
+          "targetSpecies1": 4,
+          "targetSpecies2": 5
+        }
+      ],
+      "CreelSTm": "17:01:25.5767751",
+      "CreelFTm": "00:00:00",
+      "location": 20
+    },
+    {
+      "AngGrp": [
+        {
+          "Entry": [
+            {
+              "speciesCaught": 0,
+              "released": true,
+              "total": 1,
+              "length": 20,
+              "weight": 5,
+              "mark": 1,
+              "origin": 0,
+              "finClip": 0,
+              "tagType": "tagType",
+              "tagNumber": "tagNum",
+              "notes": "Note"
+            },
+            {
+              "speciesCaught": 0,
+              "released": true,
+              "total": 1,
+              "length": 20,
+              "weight": 5,
+              "mark": 1,
+              "origin": 0,
+              "finClip": 0,
+              "tagType": "tagType",
+              "tagNumber": "tagNum",
+              "notes": "Note"
+            }
+          ],
+          "anglers": [],
+          "AngGrpIndCnt": 4,
+          "AngGrpTotCnt": 2,
+          "startTime": "17:01:25.5757753",
+          "endTime": "17:01:25.5767751",
+          "completeTrip": true,
+          "targetSpecies1": 4,
+          "targetSpecies2": 5
+        },
+        {
+          "Entry": [
+            {
+              "speciesCaught": 0,
+              "released": true,
+              "total": 1,
+              "length": 20,
+              "weight": 5,
+              "mark": 1,
+              "origin": 0,
+              "finClip": 0,
+              "tagType": "tagType",
+              "tagNumber": "tagNum",
+              "notes": "Note"
+            },
+            {
+              "speciesCaught": 0,
+              "released": true,
+              "total": 1,
+              "length": 20,
+              "weight": 5,
+              "mark": 1,
+              "origin": 0,
+              "finClip": 0,
+              "tagType": "tagType",
+              "tagNumber": "tagNum",
+              "notes": "Note"
+            }
+          ],
+          "anglers": [],
+          "AngGrpIndCnt": 4,
+          "AngGrpTotCnt": 2,
+          "startTime": "17:01:25.5757753",
+          "endTime": "17:01:25.5767751",
+          "completeTrip": true,
+          "targetSpecies1": 4,
+          "targetSpecies2": 5
+        }
+      ],
+      "CreelSTm": "17:01:25.5767751",
+      "CreelFTm": "00:00:00",
+      "location": 20
+    }
+  ],
+  "ClerkSTm": "17:01:25.5777754",
+  "ClerkFTm": "17:01:25.5777754",
+  "Recorder": "JON",
+  "surveyType": "Bus",
+  "section": "Middle",
+  "route": 0,
+  "Comments": null
+}
