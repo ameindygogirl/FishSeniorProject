@@ -1,4 +1,4 @@
-For the highlights below we have an issue. (May need to view in notepad++ to see highlights)
+The following are problems with the current JSON
 
 *ClerkSTm should not be for an individual survey but rather for an entire work session which may encompass 
 more then one survey. 
@@ -14,8 +14,8 @@ Other then these issues it appears are projects will align nicely.
 			"SrvyDt" : "2014/12/03",
 			"CRReacCDh" : 2,
 			"CRSrvyMthCD" : 1,
-			"ClerkSTm" : "08:00",
-			"ClerkFTm" : "16:00",
+			"ClerkSTm" : "08:00",         
+			"ClerkFTm" : "16:00",		  
 			"CreelSTm" : "08:30",
 			"CreelFTm" : "15:30",
 			"Recorder" : "JRS",
@@ -30,7 +30,7 @@ Other then these issues it appears are projects will align nicely.
 							"AngTypeCD" : 2,
 							"AngSTm" : "05:00",
 							"AngFTm" : null,
-							"AngSppTgt1CD" : 1,
+							"AngSppTgt1CD" : 1,			
 							"AngSppTgt2CD" : 3,
 							"AngSppHrvCD" : 1,
 							"AngHrvFlg" : true,
