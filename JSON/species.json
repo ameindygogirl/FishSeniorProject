@@ -1,0 +1,12 @@
+"speciesLUT" : [
+	{
+		"SppCDDesc":"Rainbow Trout",
+		"SppCD":1,
+		"SppAbb":"RBT"
+	},
+	{
+		"SppCDDesc":"Kokanee Salmon",
+		"SppCD":2,
+		"SppAbb":"KOK"
+	}
+]
