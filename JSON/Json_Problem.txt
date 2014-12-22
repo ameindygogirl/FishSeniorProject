@@ -3,7 +3,7 @@ The following are problems with the current JSON
 *ClerkSTm should not be for an individual survey but rather for an entire work session which may encompass 
 more then one survey. 
 *Also the client had told us target species is per grp not per entry. 
-*For the AngChkTm is that the start time for the group because shouldn't their also be a finsih time?
+*For the AngChkTm is that the start time for the group because shouldn't there also be a finish time? 
 
 Other then these issues it appears are projects will align nicely. 
 
