@@ -7,7 +7,9 @@ The bottom panel seems really low for screen 3. Is there any way to move it up?
 
 What do you think of using a time picker? I'm a little concerned that it might be difficult to use on the tablets.
 
-Is the notes icon on screen 3 a "pay" image?
+Is the notes icon on screen 3 a "pay" image? (I couldn't copy it from the Google drawing and needed it, so I grabbed my own from 
+https://openclipart.org/detail/182788/bloc-notes-by-crisg-182788 Their policy allows royalty free use for commercial and non-commercial stuff.
+But it won't be too hard to substitute yours in. The files for mine are in the images folder.)
 
 Looking at page 15 (17 in Adobe Reader) of STOICreelProtocolWEST2014 does the tag type field on screen 3 cover both the mark and fin clip type
 information?
