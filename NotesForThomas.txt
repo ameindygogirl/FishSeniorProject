@@ -9,3 +9,6 @@ What do you think of using a time picker? I'm a little concerned that it might b
 
 Is the notes icon on screen 3 a "pay" image?
 
+Looking at page 15 (17 in Adobe Reader) of STOICreelProtocolWEST2014 does the tag type field on screen 3 cover both the mark and fin clip type
+information?
+

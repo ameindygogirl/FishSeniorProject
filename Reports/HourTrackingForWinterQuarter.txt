@@ -1,5 +1,5 @@
 
 Name						TotalHours
 Ralph Parkison				13
-Stacy Carlson				18.5
+Stacy Carlson				21
 Thomas Flores				?
