@@ -14,3 +14,4 @@ But it won't be too hard to substitute yours in. The files for mine are in the i
 Looking at page 15 (17 in Adobe Reader) of STOICreelProtocolWEST2014 does the tag type field on screen 3 cover both the mark and fin clip type
 information?
 
+Should we add a delete button for each fish line? Dan brought up the possibility of adding a fish by accident. 
