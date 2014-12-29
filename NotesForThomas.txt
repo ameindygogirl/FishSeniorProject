@@ -15,3 +15,7 @@ Looking at page 15 (17 in Adobe Reader) of STOICreelProtocolWEST2014 does the ta
 information?
 
 Should we add a delete button for each fish line? Dan brought up the possibility of adding a fish by accident. 
+
+How do you feel about the horizontal scrollbars that come with the autoscroll property on the tablelayoutpanel? I don't really like them, but
+based on StackOverflow answers they might be hard to get rid of. Setting horizontalScroll.Enabled to false doesn't seem to do the trick and 
+setting the right padding to 1 flickers, although at the moment (12/28) my whole table flickers. 
