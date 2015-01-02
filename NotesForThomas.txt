@@ -7,6 +7,13 @@ The bottom panel seems really low for screen 3. Is there any way to move it up?
 
 What do you think of using a time picker? I'm a little concerned that it might be difficult to use on the tablets.
 
+Apparently time picker doesn't support a "blank" time. The built in solution is a checkbox that allows the user to disable/enable on will.
+See http://msdn.microsoft.com/en-us/library/system.windows.forms.datetimepicker.showcheckbox%28v=vs.110%29.aspx
+
+Another solution is to just set the field to null/blank on object creation if the complete trip is toggled but this won't be visual for the
+user. We could also do some flow logic related to the completed control, but that's a little funky in my opinion since it would disrupt the
+"answering in a line flow". Ultimately this is probably up to the client, but I wanted to fill you in.
+
 Is the notes icon on screen 3 a "pay" image? (I couldn't copy it from the Google drawing and needed it, so I grabbed my own from 
 https://openclipart.org/detail/182788/bloc-notes-by-crisg-182788 Their policy allows royalty free use for commercial and non-commercial stuff.
 But it won't be too hard to substitute yours in. The files for mine are in the images folder.)
@@ -21,4 +28,4 @@ based on StackOverflow answers they might be hard to get rid of. Setting horizon
 setting the right padding to 1 flickers, although at the moment (12/28) my whole table flickers. (Okay, flicker is gone but now the bars are 
 still there.)
 
-Please see the error report on github for the end day. 
+
