@@ -1,11 +1,22 @@
 On screen 3 I combined party size and number of anglers. It felt a little redundant to ask for both since the client wants to track zip codes
 for all visitors, regardless of whether they are anglers or not.
 
+Thomas 1/6/15 -
+	Please excuse me if I've forgotten this, but have we confirmed with our clients that the do in fact want zip codes for the non-anglers?
+
+-----------------------------------------------
+
 I'm a little unsure of the timer algorithm efficiency. Please take a look and see what you think.
+
+-----------------------------------------------
 
 The bottom panel seems really low for screen 3. Is there any way to move it up?
 
+-----------------------------------------------
+
 What do you think of using a time picker? I'm a little concerned that it might be difficult to use on the tablets.
+
+-----------------------------------------------
 
 Apparently time picker doesn't support a "blank" time. The built in solution is a checkbox that allows the user to disable/enable on will.
 See http://msdn.microsoft.com/en-us/library/system.windows.forms.datetimepicker.showcheckbox%28v=vs.110%29.aspx
@@ -14,18 +25,37 @@ Another solution is to just set the field to null/blank on object creation if th
 user. We could also do some flow logic related to the completed control, but that's a little funky in my opinion since it would disrupt the
 "answering in a line flow". Ultimately this is probably up to the client, but I wanted to fill you in.
 
+Thomas 1/6/15 -
+	We talked about this on our meeting. Let's change the order of the controls and only have it visible based on a completed trip.
+
+-----------------------------------------------
+
 Is the notes icon on screen 3 a "pay" image? (I couldn't copy it from the Google drawing and needed it, so I grabbed my own from 
 https://openclipart.org/detail/182788/bloc-notes-by-crisg-182788 Their policy allows royalty free use for commercial and non-commercial stuff.
 But it won't be too hard to substitute yours in. The files for mine are in the images folder.)
 
+Thomas 1/6/15 -
+	I substituted in my image now.
+
+-----------------------------------------------
+
 Looking at page 15 (17 in Adobe Reader) of STOICreelProtocolWEST2014 does the tag type field on screen 3 cover both the mark and fin clip type
 information?
 
+-----------------------------------------------
+
 Should we add a delete button for each fish line? Dan brought up the possibility of adding a fish by accident. 
+
+-----------------------------------------------
 
 How do you feel about the horizontal scrollbars that come with the autoscroll property on the tablelayoutpanel? I don't really like them, but
 based on StackOverflow answers they might be hard to get rid of. Setting horizontalScroll.Enabled to false doesn't seem to do the trick and 
 setting the right padding to 1 flickers, although at the moment (12/28) my whole table flickers. (Okay, flicker is gone but now the bars are 
 still there.)
+
+Thomas 1/6/15 -
+	I completely agree. I very much dislike how the scroll bars are displayed. Although, the more I've used it, the less it bothers me. Let's add this change to our wish list and not focus on it at this time since it might take up more time than it is worth.
+
+-----------------------------------------------
 
 
