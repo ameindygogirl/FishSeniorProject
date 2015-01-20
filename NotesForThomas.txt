@@ -58,8 +58,4 @@ Thomas 1/6/15 -
 
 -----------------------------------------------
 
-Should the end day message box look more like the rest of the application? It's low priority right now, but I think it might be a good idea to
-build a control that looks like the angler/surveyee box.
-
------------------------------------------------
 
