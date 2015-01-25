@@ -1,0 +1,52 @@
+
+{
+	'username':'user1',
+	'password':'Mypassword123',
+	'survey':[
+		{
+			'SrvyDt' : '2014-12-03',
+			'CRReachCD' : 2,
+			'CRSrvyMthCD' : 1,
+			'ClerkSTm' : '08:00',         
+			'ClerkFTm' : '16:00',		  
+			'CreelSTm' : '08:30',
+			'CreelFTm' : '15:30',
+			'Recorder' : 'JRS',
+			'Comment' : "I'm a comment! Yay!!!",
+			'AngGrp' : [
+				{
+					'AngGrpIndCnt' : 5,
+					'AngChkTm' : '09:23',
+					'AngGrpTotCnt' : 3,
+					'AngSppTgt1CD' : 1,			
+					'AngSppTgt2CD' : 3,
+					'Entry' : [
+						{
+							'AngTypeCD' : 2,
+							'AngSTm' : '05:00',
+							'AngFTm' : null,
+							'AngSppHrvCD' : 1,
+							'AngHrvFlg' : true,
+							'TotLnMM' : 505,
+							'HatchFlg' : true,
+							'WtG' : 102,
+							'Comment' : "test"
+						},
+						{
+							'AngTypeCD' : 2,
+							'AngSTm' : '05:00',
+							'AngFTm' : null,
+							'AngSppHrvCD' : 1,
+							'AngHrvFlg' : true,
+							'TotLnMM' : 505,
+							'HatchFlg' : true,
+							'WtG' : 102,
+							'Comment' : "test"
+						}
+					]
+
+				},
+			]
+		},
+	]
+}

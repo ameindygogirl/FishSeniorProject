@@ -1,0 +1,555 @@
+"{
+  "CRSrvyMthLUT": "[
+  {
+    "CRSrvyMthCD": 1,
+    "CRSrvyMthDesc": "Access"
+  },
+  {
+    "CRSrvyMthCD": 2,
+    "CRSrvyMthDesc": "Bus-Route"
+  }
+]",
+  "SppLUT": "[
+  {
+    "SppCD": 0,
+    "SppAbb": "None",
+    "AltSppAbb": "None",
+    "SppCDDesc": "None",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 1,
+    "SppAbb": "RBT",
+    "AltSppAbb": null,
+    "SppCDDesc": "Rainbow Trout",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 2,
+    "SppAbb": "KOK",
+    "AltSppAbb": null,
+    "SppCDDesc": "Kokanee Salmon",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 3,
+    "SppAbb": "WAL",
+    "AltSppAbb": "WE",
+    "SppCDDesc": "Walleye",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 4,
+    "SppAbb": "BUR",
+    "AltSppAbb": null,
+    "SppCDDesc": "Burbot",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 5,
+    "SppAbb": "SMB",
+    "AltSppAbb": null,
+    "SppCDDesc": "Smallmouth Bass",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 6,
+    "SppAbb": "YP",
+    "AltSppAbb": null,
+    "SppCDDesc": "Yellow Perch",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 7,
+    "SppAbb": "NP",
+    "AltSppAbb": "NPK",
+    "SppCDDesc": "Northern Pike",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 8,
+    "SppAbb": "CHK",
+    "AltSppAbb": null,
+    "SppCDDesc": "Chinook Salmon",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 9,
+    "SppAbb": "WS",
+    "AltSppAbb": "WST",
+    "SppCDDesc": "White Sturgeon",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 10,
+    "SppAbb": "NPM",
+    "AltSppAbb": null,
+    "SppCDDesc": "Northern Pikeminnow",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 11,
+    "SppAbb": "LCH",
+    "AltSppAbb": "LC",
+    "SppCDDesc": "Lake Chub",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 12,
+    "SppAbb": "CHM",
+    "AltSppAbb": null,
+    "SppCDDesc": "Chiselmouth",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 13,
+    "SppAbb": "RSS",
+    "AltSppAbb": null,
+    "SppCDDesc": "Redside Shiner",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 14,
+    "SppAbb": "PEA",
+    "AltSppAbb": "PM",
+    "SppCDDesc": "Peamouth",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 15,
+    "SppAbb": "LND",
+    "AltSppAbb": null,
+    "SppCDDesc": "Longnose Dace",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 16,
+    "SppAbb": "SD",
+    "AltSppAbb": null,
+    "SppCDDesc": "Speckled Dace",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 17,
+    "SppAbb": "LNS",
+    "AltSppAbb": null,
+    "SppCDDesc": "Longnose Sucker",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 18,
+    "SppAbb": "BLS",
+    "AltSppAbb": null,
+    "SppCDDesc": "Bridgelip Sucker",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 19,
+    "SppAbb": "LSS",
+    "AltSppAbb": null,
+    "SppCDDesc": "Largescale Sucker",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 20,
+    "SppAbb": "SCU",
+    "AltSppAbb": "SCUL",
+    "SppCDDesc": "Sculpin spp.",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 21,
+    "SppAbb": "MWF",
+    "AltSppAbb": null,
+    "SppCDDesc": "Mountain Whitefish",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 22,
+    "SppAbb": "LWF",
+    "AltSppAbb": null,
+    "SppCDDesc": "Lake Whitefish",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 23,
+    "SppAbb": "BRN",
+    "AltSppAbb": "BNT",
+    "SppCDDesc": "Brown Trout",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 24,
+    "SppAbb": "BRK",
+    "AltSppAbb": "BKT",
+    "SppCDDesc": "Eastern Brook Trout",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 25,
+    "SppAbb": "CUT",
+    "AltSppAbb": null,
+    "SppCDDesc": "Cutthroat Trout",
+    "SppNativeFlg": true
+  },
+  {
+    "SppCD": 26,
+    "SppAbb": "CC",
+    "AltSppAbb": "CRP",
+    "SppCDDesc": "Common Carp",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 27,
+    "SppAbb": "TNC",
+    "AltSppAbb": null,
+    "SppCDDesc": "Tench",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 28,
+    "SppAbb": "BBH",
+    "AltSppAbb": null,
+    "SppCDDesc": "Brown Bullhead",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 29,
+    "SppAbb": "YBH",
+    "AltSppAbb": null,
+    "SppCDDesc": "Yellow Bullhead",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 31,
+    "SppAbb": "LMB",
+    "AltSppAbb": null,
+    "SppCDDesc": "Largemouth Bass",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 32,
+    "SppAbb": "BC",
+    "AltSppAbb": null,
+    "SppCDDesc": "Black Crappie",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 33,
+    "SppAbb": "BG",
+    "AltSppAbb": null,
+    "SppCDDesc": "Bluegill",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 34,
+    "SppAbb": "PS",
+    "AltSppAbb": null,
+    "SppCDDesc": "Pumpkinseed",
+    "SppNativeFlg": false
+  },
+  {
+    "SppCD": 35,
+    "SppAbb": "GC",
+    "AltSppAbb": null,
+    "SppCDDesc": "Golden Shiner",
+    "SppNativeFlg": false
+  }
+]",
+  "CRSppLUT": "[
+  {
+    "AngSppCD": 0,
+    "AngSppAbb": "None",
+    "AngSppCDDesc": "None"
+  },
+  {
+    "AngSppCD": 1,
+    "AngSppAbb": "RBT",
+    "AngSppCDDesc": "Rainbow Trout"
+  },
+  {
+    "AngSppCD": 2,
+    "AngSppAbb": "KOK",
+    "AngSppCDDesc": "Kokanee Salmon"
+  },
+  {
+    "AngSppCD": 3,
+    "AngSppAbb": "WAL",
+    "AngSppCDDesc": "Walleye"
+  },
+  {
+    "AngSppCD": 4,
+    "AngSppAbb": "BUR",
+    "AngSppCDDesc": "Burbot"
+  },
+  {
+    "AngSppCD": 5,
+    "AngSppAbb": "SMB",
+    "AngSppCDDesc": "Smallmouth Bass"
+  },
+  {
+    "AngSppCD": 6,
+    "AngSppAbb": "YP",
+    "AngSppCDDesc": "Yellow Perch"
+  },
+  {
+    "AngSppCD": 7,
+    "AngSppAbb": "NP",
+    "AngSppCDDesc": "Northern Pike"
+  },
+  {
+    "AngSppCD": 8,
+    "AngSppAbb": "CHK",
+    "AngSppCDDesc": "Chinook Salmon"
+  },
+  {
+    "AngSppCD": 9,
+    "AngSppAbb": "WS",
+    "AngSppCDDesc": "White Sturgeon"
+  }
+]",
+  "AngTypeLUT": "[
+  {
+    "AngTypeCD": 0,
+    "AngTypeDesc": "No angler"
+  },
+  {
+    "AngTypeCD": 1,
+    "AngTypeDesc": "Boat angler"
+  },
+  {
+    "AngTypeCD": 2,
+    "AngTypeDesc": "Shore angler"
+  },
+  {
+    "AngTypeCD": 3,
+    "AngTypeDesc": "Boat trailer count"
+  },
+  {
+    "AngTypeCD": 4,
+    "AngTypeDesc": "Shore angler count"
+  }
+]",
+  "BoatLaunchLUT": "[
+  {
+    "BoatLaunchCD": 1,
+    "BoatLaunchDesc": "China Bend"
+  },
+  {
+    "BoatLaunchCD": 2,
+    "BoatLaunchDesc": "North Gorge"
+  },
+  {
+    "BoatLaunchCD": 3,
+    "BoatLaunchDesc": "Evans"
+  },
+  {
+    "BoatLaunchCD": 4,
+    "BoatLaunchDesc": "Marcus Island"
+  },
+  {
+    "BoatLaunchCD": 5,
+    "BoatLaunchDesc": "Kettle Falls"
+  },
+  {
+    "BoatLaunchCD": 6,
+    "BoatLaunchDesc": "Colville River"
+  },
+  {
+    "BoatLaunchCD": 7,
+    "BoatLaunchDesc": "Bradbury Beach"
+  },
+  {
+    "BoatLaunchCD": 8,
+    "BoatLaunchDesc": "Daisy"
+  },
+  {
+    "BoatLaunchCD": 9,
+    "BoatLaunchDesc": "Gifford"
+  },
+  {
+    "BoatLaunchCD": 10,
+    "BoatLaunchDesc": "Hunters"
+  },
+  {
+    "BoatLaunchCD": 11,
+    "BoatLaunchDesc": "Columbia Campground"
+  },
+  {
+    "BoatLaunchCD": 12,
+    "BoatLaunchDesc": "Two Rivers Marina"
+  },
+  {
+    "BoatLaunchCD": 13,
+    "BoatLaunchDesc": "A-Frame Campground"
+  },
+  {
+    "BoatLaunchCD": 14,
+    "BoatLaunchDesc": "Spokane Tribal Boat Launch"
+  },
+  {
+    "BoatLaunchCD": 15,
+    "BoatLaunchDesc": "Little Falls Dam"
+  },
+  {
+    "BoatLaunchCD": 16,
+    "BoatLaunchDesc": "Porcupine Bay"
+  },
+  {
+    "BoatLaunchCD": 17,
+    "BoatLaunchDesc": "For Spokane"
+  },
+  {
+    "BoatLaunchCD": 18,
+    "BoatLaunchDesc": "Seven Bays"
+  },
+  {
+    "BoatLaunchCD": 19,
+    "BoatLaunchDesc": "Hawk Creek"
+  },
+  {
+    "BoatLaunchCD": 20,
+    "BoatLaunchDesc": "Lincoln"
+  },
+  {
+    "BoatLaunchCD": 21,
+    "BoatLaunchDesc": "Jones Bay"
+  },
+  {
+    "BoatLaunchCD": 22,
+    "BoatLaunchDesc": "Hanson Harbor"
+  },
+  {
+    "BoatLaunchCD": 23,
+    "BoatLaunchDesc": "Keller Ferry"
+  },
+  {
+    "BoatLaunchCD": 24,
+    "BoatLaunchDesc": "Spring Canyon"
+  },
+  {
+    "BoatLaunchCD": 25,
+    "BoatLaunchDesc": "Crescent Bay"
+  },
+  {
+    "BoatLaunchCD": 26,
+    "BoatLaunchDesc": "Grand Coulee Dam"
+  },
+  {
+    "BoatLaunchCD": 27,
+    "BoatLaunchDesc": "Swawilla Basin"
+  },
+  {
+    "BoatLaunchCD": 28,
+    "BoatLaunchDesc": "Keller Park"
+  },
+  {
+    "BoatLaunchCD": 29,
+    "BoatLaunchDesc": "Inchelium"
+  },
+  {
+    "BoatLaunchCD": 30,
+    "BoatLaunchDesc": "French Rocks"
+  },
+  {
+    "BoatLaunchCD": 31,
+    "BoatLaunchDesc": "Snag Cover"
+  },
+  {
+    "BoatLaunchCD": 32,
+    "BoatLaunchDesc": "North Port"
+  }
+]",
+  "CRReachLUT": "[
+  {
+    "CRReachCD": 1,
+    "CRReachDesc": "Upper"
+  },
+  {
+    "CRReachCD": 2,
+    "CRReachDesc": "Middle"
+  },
+  {
+    "CRReachCD": 3,
+    "CRReachDesc": "Lower"
+  }
+]",
+  "OrgAffilLUT": "[
+  {
+    "OrgAffilCD": 0,
+    "OrgAffilDesc": "None"
+  },
+  {
+    "OrgAffilCD": 1,
+    "OrgAffilDesc": "Spokane Tribe"
+  },
+  {
+    "OrgAffilCD": 2,
+    "OrgAffilDesc": "Colville Confederated Tribes"
+  },
+  {
+    "OrgAffilCD": 3,
+    "OrgAffilDesc": "WDFW"
+  }
+]",
+  "TagColorLUT": "[
+  {
+    "TagColorCD": 0,
+    "TagColorDesc": "None"
+  },
+  {
+    "TagColorCD": 1,
+    "TagColorDesc": "Orange"
+  },
+  {
+    "TagColorCD": 2,
+    "TagColorDesc": "Yellow"
+  },
+  {
+    "TagColorCD": 3,
+    "TagColorDesc": "Blue"
+  },
+  {
+    "TagColorCD": 4,
+    "TagColorDesc": "White"
+  },
+  {
+    "TagColorCD": 5,
+    "TagColorDesc": "Green"
+  },
+  {
+    "TagColorCD": 6,
+    "TagColorDesc": "Pink"
+  },
+  {
+    "TagColorCD": 7,
+    "TagColorDesc": "Brown"
+  }
+]",
+  "TagLUT": "[
+  {
+    "TagCD": 0,
+    "TagDesc": "None"
+  },
+  {
+    "TagCD": 1,
+    "TagDesc": "PIT tag"
+  },
+  {
+    "TagCD": 2,
+    "TagDesc": "T-bar anchor tag (FLOY)"
+  },
+  {
+    "TagCD": 3,
+    "TagDesc": "Acoustic tag"
+  },
+  {
+    "TagCD": 4,
+    "TagDesc": "Radio tag"
+  },
+  {
+    "TagCD": 5,
+    "TagDesc": "Spaghetti tag"
+  }
+]"
+}"
