@@ -1,0 +1,12 @@
+CREEL Question Answers
+
+*Have it where their is editing and deleting for fish on the current party.
+
+*Get rid of Mark tag and then have the tag type default to none.
+TagType is none then still have it eliminate the tag number. But be sure to allow options for both Fin Clip and Tag Type. As their is 
+a likely chance that both will be present.
+
+*Boat Trailer Count, Shore Angler Count - Change Label to Count for party size for total boats/trailers. End of the day the trailers will be averaged out
+and calculated out as the total time the creel clerk was there with the number of total boats/trailers.
+
+*
